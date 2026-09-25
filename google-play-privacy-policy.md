@@ -24,7 +24,7 @@ providers under their privacy policies.
 
 ## 4) Advertising and consent
 
-- Google AdMob is used for rewarded and interstitial ads.
+- Google AdMob is used for optional rewarded ads shown only after the player chooses a revive or double-boon offer.
 - Users may manage privacy settings through the app if required by ad consent.
 
 ## 5) Your rights
